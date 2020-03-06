@@ -31,7 +31,7 @@ Result
    
 >Confustion Matrix   
 
-<img src="/image/4.JPG" width="80%" height="60%" title="img1" alt="img5"></img>   
+<img src="/image/4.JPG" width="40%" height="40%" title="img1" alt="img5"></img>   
 
 
 
